@@ -4,7 +4,7 @@ There are two types of Data types
 */
 
 //  Primitive dataTypes
-
+console.log("+++++++++++++++********* Primitive Data Type Start From This line*******++++++++++++++")
 
 //    1 Number
 let num =34334
