@@ -14,3 +14,25 @@
 // console.log(typeof Number(val1))
 
 // +++++++++++++++++  Operations  ++++++++++++
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**10)
+// console.log(2/2)
+// // console.log(2%10)
+// let str1="Hello"
+// let str2=" veer"
+// let st=str1+str2
+// console.log(st)
+
+// console.log("13"+3)
+// console.log(34+23+"23")
+// console.log("34"+23+23)
+// // console.log(4+4*2%3)
+// console.log(+true)
+// console.log(+false)
+let num,num1,num3
+num=num1=num3=34;
+console.log(num)
+console.log(num1)
+console.log(num3)
